@@ -23,10 +23,6 @@ Save and load data using file persistence
 
 ## How to Run
 
-1. Clone the repository
+1. **Clone the repository:**
 ```bash
 git clone https://github.com/prashnam-shrestha/personal-finance-tracker-java.git
-
-## Purpose
-
-This project was built to practice Java OOP concepts such as classes, inheritance, abstraction, and state management.
