@@ -21,9 +21,11 @@ Save and load data using file persistence
 * **Concepts:** OOP (Polymorphism, Inheritance), Abstract Classes, Collections (`ArrayList`), File I/O (`Serializable`)
 * **Environment:** Apache NetBeans / Command Line
 
-##  How to Run
+## How to Run
 
-Compile and run ExpenseTracker.java.
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/prashnam-shrestha/personal-finance-tracker-java.git](https://github.com/prashnam-shrestha/personal-finance-tracker-java.git)
 
 ## Purpose
 
