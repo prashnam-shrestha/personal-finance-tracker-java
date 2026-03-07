@@ -24,6 +24,7 @@ Save and load data using file persistence
 ##  How to Run
 
 1. **Clone the repository:**
+   Open your terminal or command prompt and run:
    ```bash
    git clone [https://github.com/prashnam-shrestha/personal-finance-tracker-java.git](https://github.com/prashnam-shrestha/personal-finance-tracker-java.git)
 
