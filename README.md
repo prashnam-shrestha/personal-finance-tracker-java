@@ -25,7 +25,7 @@ Save and load data using file persistence
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/prashnam-shrestha/personal-finance-tracker-java.git](https://github.com/prashnam-shrestha/personal-finance-tracker-java.git)
+   git clone https://github.com/prashnam-shrestha/personal-finance-tracker-java.git](https://github.com/prashnam-shrestha/personal-finance-tracker-java.git
 
 ## Purpose
 
